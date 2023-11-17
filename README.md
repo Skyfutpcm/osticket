@@ -48,7 +48,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   <li><b>Note</b>: There are two panels when navigating osTicket; <b>Agent Panel</b> and <b>Admin Panel</b>, you'll know which panel you are on if the <b>opposite panel</b> is displayed on the top right of the UI next to your user login name</li>
   <ul>
     <li>In this example, the user "josh" is on the Agent Panel</li>
-    <li><img src=![2](https://github.com/Skyfutpcm/osticket/assets/147337466/9eba5a5b-b1f5-4039-9c64-8cc38b5b769e)
+    <li><img src= "https://github.com/Skyfutpcm/osticket/assets/147337466/9eba5a5b-b1f5-4039-9c64-8cc38b5b769e"
  height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
   </ul>
   <li><b>Roles</b> grant certain permisions to Agents in an Department they are assigned to</li>
