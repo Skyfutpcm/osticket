@@ -56,11 +56,13 @@ This tutorial outlines the post-install configuration of the open-source help de
     <li>In the <b>Admin Panel</b>, go to the <b>Agents</b> tab and click on <b>Roles</b>, then click on <b>Add New Role</b></li>
     <ul>
       <li><b>Note</b>: osTickets creates four Roles (All Access, Expanded Access, Limited Access, and View Only) by default.</li>
-      <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/6347ce31-f5f1-4078-b738-dc70dd037df6" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/b8b5881f-2b14-43e8-b275-1f2c0ecaa91e"
+ alt="Disk Sanitization Steps"/></li>
     </ul>
     <li>Name the new Role <b>Supreme Admin</b>, and click on the <b>Permissions</b> tab; in this tab you can assign specific permissions to this role. For our "Supreme Admin" Role, we will check every box under the <b>Tickets</b>, <b>Tasks</b>, and <b>Knowledgebase</b> tabs. Click on <b>Add Role</b> to finish and create the role.</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/306c368f-76fb-4b25-869b-d1a1f430ed76" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/2a82d92c-33cf-4778-a770-c4532d9ceebd"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
   </ul>
 
@@ -69,11 +71,13 @@ This tutorial outlines the post-install configuration of the open-source help de
   <li>Still on the Agents tab, click on <b>Departments</b> and click on <b>Add New Department</b></li>
   <ul>
     <li><b>Note</b>: Much like Roles, osTicket also creates two Departments (Maintenance and Support) by default</li>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/2a449d47-9632-47ee-9606-65512e292a2e" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/e5a6ff39-224f-4d31-8f74-4852b53be96c"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
   </ul>
   <li>Name the Department <b>System Administrators</b> (we'll leave everything else by default for now), then click on <b>Create Dept</b> to create Department</li>
   <ul>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/700f78be-2640-4f34-85d6-0ab8ff6ae994" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/6b6f43cd-c47f-4bd3-80d4-548893070461"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
   </ul>
   </ul>
 
@@ -82,11 +86,13 @@ This tutorial outlines the post-install configuration of the open-source help de
     <li>In the Agents tab, click on <b>Teams</b> and click on <b>Add New Team</b></li>
     <ul>
     <li><b>Note</b>: Just like previous set ups, osTicket creates a Team (Level I Support) by default</li>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/5ede2f9c-91d5-4f9b-8199-99e8f0696e5c" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/175cf1ca-e4ca-47b7-ab5d-b68360866968"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
     <li>Name the Team <b>Level II Support</b> then click on <b>Create Team</b> to create the Team</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/b9aa5ab2-2c41-4666-a4f2-6a0f3ff88bc1" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/aa0258d1-7ffd-459d-b144-84104de7c5a5"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
   </ul>
   
@@ -103,7 +109,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <ul>
   <li>In the <b>Admin Panel</b>, head to the <b>Settings</b> tab and click on <b>Users</b>, make sure <b>Registration Required</b> is unchecked. This will allow us to create tickets anonymously</li>
   <ul>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/97c51388-324a-42e0-a808-067de164c4b6" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/77c2453d-1fc6-4573-ab04-5b764b39d99a"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
   </ul>
 </ul>
   
@@ -121,18 +128,22 @@ This tutorial outlines the post-install configuration of the open-source help de
   <ul>
     <li>In the <b>Admin Panel</b>, head to the <b>Agents</b> tab and click on <b>Add New Agent</b></li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/d66757f0-54d1-458f-8a2d-4f1890b2da1d" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/3924bbff-63e2-4385-8d74-9a027e507e11"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
     <li>For this tutorial, we will be creating two new Agents <b>Jane</b> and <b>John</b>, it is advise to have a notepad ready to catalog login information as you enter their credentials, but we will set their user names as <b>[name].doe</b> and both of their passwords as <b>Password1</b> for convenience (which is our admin password from the installation tutorial)</li>
     <ul>
       <li>Fill in the Agent's basic info and set the Agent's email address as <b>[name].doe@osticket.com</b> and click on <b>Set Password</b></li>
-      <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/06fbd1ca-9d97-4f4f-b866-9b304dbdeb57" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/9ea3bece-34bd-4770-815c-cf6a0bb73c3b"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
       <li>Set the Agent's password to <b>Password1</b> and unchecked the boxes to prevent the Agent for our example from needing to reset password or change password after login</li>
-      <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/51953148-bddc-476c-9368-4b62f4bf3d42" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/8847101e-dc05-4467-b1b2-61e91e469522"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
     <li>Go the <b>Access</b> tab to set the Agent's <b>Primary Department</b> (Mandatory to create the Agent). <b>Extended Access</b> can also be added to the Agent in order to access additional Departments</li>
     <ul>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/c57bca22-2622-4f01-88eb-bd699d1f12de" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/b8458da6-0523-4203-8ec4-6a38f94a85e8"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
     <li>OPTIONAL: Head to the <b>Teams</b> tab to assign the Agent to a Team</li>
   </ul>
@@ -142,11 +153,13 @@ This tutorial outlines the post-install configuration of the open-source help de
   <ul>
     <li>In the <b>Agent Panel</b>, go to the <b>Users</b> tab and click on <b>Add User</b></li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/f08ec067-3a66-420e-bfaf-6a3003512bcb" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/b2528594-df9a-48f8-aebe-af38366a9e52"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
     <li>For this tutorial, we will be creating two new Users <b>Ken</b> and <b>Karen</b> and setting up usernames, emails, and passwords similar to our Agents.</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/8eadff14-b483-4781-9679-80b252a092c4" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+      <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/fb6a21c4-06be-4703-8dfb-4ae4b256f6c9"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
     </ul>
   </ul>
   
@@ -164,8 +177,10 @@ This tutorial outlines the post-install configuration of the open-source help de
   <li><b>Service Level Agreements</b> or SLA Plans provide a length of time for the ticket Administrator when the ticket is expected be CLOSED. They can also be designated to specific Departments or Help Topics</li>
   <li>In the <b>Admin Panel</b>, go to the <b>Manage</b> tab and drop down to <b>SLA</b> then click on <b>Add New SLA Plan</b></li>
   <ul>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/1ebc6fe9-aa95-4e52-9fd9-1ecd7724d3b9" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/cf8da66d-209b-40e6-a4f1-c99bbd102b3a" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/cf028699-c30b-4a65-9ca1-828d6417cd6b"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/897e516e-752f-4e6f-98dd-49cb622eb484"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
   </ul>
   <li>osTicket by default has the SLA Plan <b>Default SLA</b>. We will be creating three SLA Plans each with their own length of time for different kinds of importance of the ticket, from highest priority to lowest priority:</li>
   <ol>
@@ -175,7 +190,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   </ol>
   <li>Example of creating SEV-A SLA Plan, click on <b>Add Plan</b> to create the SLA Plan</li>
   <ul>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/ee7d6fbb-f67a-4055-aa9b-b9fd77d48de1" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/77de0311-30f0-42f0-83da-da5cf0215afb"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
   </ul>
 </ul>
   
@@ -192,7 +208,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   <li>In the <b>Admin Panel</b>, go to the <b>Manage</b> tab and click on <b>Add New Help Topic</b></li>
   <ul>
     <li><b>Note</b>: osTicket creates four Help Topics (Feedback, General Inquiry, Report a Problem, and Report a Problem / Access Issue) by default</li>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/27299450-a705-462c-a7d0-6fcdac6f5a59" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/e147e6e3-e617-4fc9-ac7d-2a25e53edc0e"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
   </ul>
   <li>We will create four different Help Topics based on the potential serverity a ticket could have, from highest to lowest priority:</li>
   <ol>
@@ -203,7 +220,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   </ol>
   <li>Example of entering credentials for the Help Topic "Equipment Request," click on <b>Add Topic</b> to create the Help Topic</li>
   <ul>
-    <li><img src="https://github.com/ColtonTrauCC/post-install-config/assets/147654000/97777c9e-516c-4831-891b-9d65e9613ed0" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/Skyfutpcm/osticket/assets/147337466/207ff5a7-ca2c-4177-8472-26d273b54690"
+ height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
   </ul>
   
 </ul>
@@ -219,4 +237,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <br/>
 
-<h3 align = "right">Next Tutorial - <a href = "https://github.com/ColtonTrauCC/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></h3>
+<h3 align = "right">Next Tutorial - <a href = "https://github.com/Skyfutpcm/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></h3>
